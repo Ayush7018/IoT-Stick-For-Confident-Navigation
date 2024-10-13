@@ -1,4 +1,4 @@
-# IoT-Based Smart Blind Stick
+# IoT-Stick-For-Confident-Navigation
 
 ## Introduction
 
