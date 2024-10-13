@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The **IoT-Based Smart Blind Stick** is an assistive device designed to help visually impaired individuals navigate their environment safely. It leverages sensors and IoT technology to detect obstacles, track location, and provide real-time feedback to the user via a speaker or vibration motor. This project offers an affordable and practical solution for enhancing mobility and independence for visually impaired people.
+The **IoT-Based Smart Blind Stick For Confident Navigation** is an assistive device designed to help visually impaired individuals navigate their environment safely. It leverages sensors and IoT technology to detect obstacles, track location, and provide real-time feedback to the user via a speaker or vibration motor. This project offers an affordable and practical solution for enhancing mobility and independence for visually impaired people.
 
 ## Features
 
