@@ -101,4 +101,3 @@ This project is licensed under the MIT License.
 
 ---
 
-This is a general structure. You can modify the contents based on the specific details and features of your project.
